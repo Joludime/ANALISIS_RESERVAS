@@ -1,0 +1,9 @@
+"Reservation number","Invoice number","Booked on","Arrival","Departure","Booker name","Guest name","Rooms","Persons","Room nights","Commission %","Original amount","Final amount","Commission amount","Status","Guest request","Currency","Hotel id","Property name","City","Country"
+"3018468932","1559200039","2020-01-30T17:16:42","2020-10-30","2020-11-02","Michael Gerster","Michael Gerster","0","2","0","15.00","1950.000","0","0","CANCELLED","","MXN","5906260","Casa Lool Beh","Mérida, Yucatan","Mexico"
+"3000423682","1559200039","2020-10-27T02:52:49","2020-11-04","2020-11-06","VALENTINA MARIA CASTAGNETO HIDALGO","VALENTINA MARIA  CASTAGNETO HIDALGO","0","1","0","15.00","320.000","0","0","CANCELLED","","MXN","5906260","Casa Lool Beh","Mérida, Yucatan","Mexico"
+"3863122773","1559200039","2020-08-02T20:04:17","2020-11-05","2020-11-07","Marlen Heredia","Marlen Heredia","0","2","0","15.00","1300.000","0","0","CANCELLED","","MXN","5906260","Casa Lool Beh","Mérida, Yucatan","Mexico"
+"2380190746","1559200039","2020-11-04T21:54:49","2020-11-06","2020-11-08","Xavier maldonado Maldonado","Xavier maldonado Maldonado","1","2","2","15.00","1040.000","1040.0000000000","156.0000000000","OK","","MXN","5906260","Casa Lool Beh","Mérida, Yucatan","Mexico"
+"3920076721","1559200039","2020-10-05T23:33:38","2020-11-07","2020-11-11","Patrick Plag","Patrick Plag
+Patrick Plag
+Patrick Plag","0","7","0","15.00","6750.000","0","0","CANCELLED","","MXN","5906260","Casa Lool Beh","Mérida, Yucatan","Mexico"
+"2382742238","1559200039","2020-11-10T01:04:15","2020-11-12","2020-11-14","GLADYS ANGELICA DURAN RIOS","GLADYS ANGELICA DURAN RIOS","1","2","2","15.00","400.000","400.0000000000","60.0000000000","OK","","MXN","5906260","Casa Lool Beh","Mérida, Yucatan","Mexico"

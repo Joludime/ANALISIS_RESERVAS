@@ -1,0 +1,16 @@
+"Reservation number","Invoice number","Booked on","Arrival","Departure","Booker name","Guest name","Rooms","Persons","Room nights","Commission %","Original amount","Final amount","Commission amount","Status","Guest request","Currency","Hotel id","Property name","City","Country"
+"2923910432","1591415216","2023-04-29T06:24:40","2023-04-29","2023-05-02","raquel nóbrega","raquel nóbrega","1","2","3","15.00","1810.080","1810.0800","271.5120","OK","","MXN","5906260","Casa Lool Beh","Mérida, Yucatan","Mexico"
+"3889324603","1591415216","2023-04-26T23:27:05","2023-04-29","2023-05-02","Stephanie Trudel","Stephanie Trudel","1","2","3","15.00","1941.570","1941.5700","291.2355","OK","","MXN","5906260","Casa Lool Beh","Mérida, Yucatan","Mexico"
+"2433497068","1591415216","2023-05-04T06:00:06","2023-05-05","2023-05-08","Stefanie Sams","Stefanie Sams","1","2","3","15.00","1766.880","1766.8800","265.0320","OK","","MXN","5906260","Casa Lool Beh","Mérida, Yucatan","Mexico"
+"2781700531","1591415216","2023-05-05T02:53:53","2023-05-05","2023-05-07","Maristella Loi","Maristella Loi","1","2","2","15.00","1166.400","1166.4000","174.9600","OK","","MXN","5906260","Casa Lool Beh","Mérida, Yucatan","Mexico"
+"2825832928","1591415216","2023-03-06T12:34:54","2023-05-06","2023-05-09","EDUARDO JOSE SANZ RIBOTA","EDUARDO JOSE SANZ RIBOTA","1","2","3","15.00","2208.600","2208.6000","331.2900","OK","","MXN","5906260","Casa Lool Beh","Mérida, Yucatan","Mexico"
+"2921494475","1591415216","2023-04-18T23:11:58","2023-05-09","2023-05-12","Lora Montroy","Lora Montroy","0","1","0","0.00","2046.600","0.0000","0.0000","CANCELLED","","MXN","5906260","Casa Lool Beh","Mérida, Yucatan","Mexico"
+"2485687725","1591415216","2023-05-11T04:00:15","2023-05-11","2023-05-13","Max Köber","Max Köber","1","2","2","15.00","1167.840","1167.8400","175.1760","OK","","MXN","5906260","Casa Lool Beh","Mérida, Yucatan","Mexico"
+"2756977878","1591415216","2023-05-11T00:39:06","2023-05-11","2023-05-13","Jean-Marie Schloemer","Jean-Marie Schloemer","1","1","2","15.00","1177.920","1177.9200","176.6880","OK","","MXN","5906260","Casa Lool Beh","Mérida, Yucatan","Mexico"
+"2547651893","1591415216","2023-05-11T04:47:01","2023-05-12","2023-05-14","Martinelli Bibiana","Martinelli Bibiana","1","2","2","15.00","1149.120","1149.1200","172.3680","OK","","MXN","5906260","Casa Lool Beh","Mérida, Yucatan","Mexico"
+"3733305266","1591415216","2023-04-24T14:02:09","2023-05-14","2023-05-16","Sofia Malashenkova","Sofia Malashenkova","1","2","2","15.00","1294.380","1294.3800","194.1570","OK","","MXN","5906260","Casa Lool Beh","Mérida, Yucatan","Mexico"
+"2269758555","1591415216","2023-03-28T13:57:21","2023-05-17","2023-05-19","Mickael LABRUYERE","Mickael LABRUYERE","1","2","2","15.00","1496.000","1496.0000","224.4000","OK","","MXN","5906260","Casa Lool Beh","Mérida, Yucatan","Mexico"
+"2502256308","1591415216","2023-02-24T18:43:21","2023-05-18","2023-05-22","Paulina Hernandez Rousset","Paulina Hernandez Rousset","1","2","4","15.00","2888.000","2888.0000","433.2000","OK","","MXN","5906260","Casa Lool Beh","Mérida, Yucatan","Mexico"
+"3308294503","1591415216","2023-05-16T19:25:39","2023-05-24","2023-05-28","José Luis Cruz Galván","Ramón Cardona
+Gabriel Corona
+José Luis Cruz Galván","0","7","0","0.00","8809.600","0.0000","0.0000","NO_SHOW","","MXN","5906260","Casa Lool Beh","Mérida, Yucatan","Mexico"

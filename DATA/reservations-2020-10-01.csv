@@ -1,0 +1,3 @@
+"Reservation number","Invoice number","Booked on","Arrival","Departure","Booker name","Guest name","Rooms","Persons","Room nights","Commission %","Original amount","Final amount","Commission amount","Status","Guest request","Currency","Hotel id","Property name","City","Country"
+"3722443040","1558451574","2020-10-08T18:02:04","2020-10-15","2020-10-18","Manuel Barciela","Manuel Barciela","1","1","3","15.00","600.000","600.0000000000","90.0000000000","OK","","MXN","5906260","Casa Lool Beh","Mérida, Yucatan","Mexico"
+"2674189105","1558451574","2020-10-13T03:49:29","2020-10-19","2020-10-22","Iris Granero Manso","Iris Granero Manso","1","2","3","15.00","1680.000","1680.0000000000","252.0000000000","OK","","MXN","5906260","Casa Lool Beh","Mérida, Yucatan","Mexico"

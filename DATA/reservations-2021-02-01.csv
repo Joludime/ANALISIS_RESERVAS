@@ -1,0 +1,6 @@
+"Reservation number","Invoice number","Booked on","Arrival","Departure","Booker name","Guest name","Rooms","Persons","Room nights","Commission %","Original amount","Final amount","Commission amount","Status","Guest request","Currency","Hotel id","Property name","City","Country"
+"3159970691","1561102540","2021-02-01T17:24:42","2021-02-02","2021-02-05","Daniel Santos","Daniel Santos","1","2","3","15.00","1404.480","1404.4800000000","210.6720000000","OK","","MXN","5906260","Casa Lool Beh","Mérida, Yucatan","Mexico"
+"3268889138","1561102540","2021-01-17T06:41:31","2021-02-04","2021-02-06","Edgar Alvarez","Edgar Alvarez","0","2","0","15.00","912.000","0","0","CANCELLED","","MXN","5906260","Casa Lool Beh","Mérida, Yucatan","Mexico"
+"3308614604","1561102540","2021-02-20T02:22:05","2021-02-20","2021-02-22","Sinead Mac Manus","Matti Darvish
+Sassan Darvish
+Sinead Mac Manus","3","3","6","15.00","2922.000","2922.0000000000","438.3000000000","OK","","MXN","5906260","Casa Lool Beh","Mérida, Yucatan","Mexico"
