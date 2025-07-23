@@ -1,0 +1,34 @@
+import pandas as pd
+df = pd.read_csv('./reservas_unidas.csv')
+ # Pon la ruta correcta a tu archivo
+print(df.columns)
+
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Cargar datos
+df = pd.read_csv('./reservas_unidas.csv')
+
+# Convertir la columna 'Booked on' a datetime
+df['Arrival'] = pd.to_datetime(df['Arrival'])
+
+# Extraer año y mes
+df['año'] = df['Arrival'].dt.year
+df['mes'] = df['Arrival'].dt.month
+
+# Contar reservas por año y mes
+resumen = df.groupby(['año', 'mes']).size().reset_index(name='cantidad_reservas')
+
+# Crear columna año_mes para la gráfica
+resumen['año_mes'] = resumen['año'].astype(str) + '-' + resumen['mes'].astype(str).str.zfill(2)
+
+# Graficar
+plt.figure(figsize=(12,6))
+plt.bar(resumen['año_mes'], resumen['cantidad_reservas'], color='skyblue')
+plt.xticks(rotation=45)
+plt.title('Temporadas altas: Reservas por mes y año')
+plt.xlabel('Mes y Año')
+plt.ylabel('Número de reservas')
+plt.tight_layout()
+plt.show()
+
